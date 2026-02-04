@@ -3,7 +3,7 @@
 ## Overview
 This repository contains Individual Assignments for DSA4262.
 
-## Assignment 1 – Mental Health in Singapore
+## Individual Assignment 1
 
 ### Folder Structure
 - `Assignment 1/`
